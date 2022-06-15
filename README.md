@@ -1,10 +1,10 @@
-# Olá! Me chamo Lara Fábian. 👋
+# Hi! 👋 My name is Lara Fábian.
 
-## - 👩‍🎓 Graduanda em Sistemas de Informação pela UESB. 
-## - 📚 Atualmente, estou aprendendo desenvolvimento *web*.
-## - 🎯 Atualmente, estou desbravando a área de testes de *software*
-## - 😄 Pronome: Ela.
-## - 📫 Qual a melhor forma de entrar em contato comigo? [LinkedIn](https://www.linkedin.com/in/lara-f%C3%A1bian-a-0046ba197/).
+## - 👩‍🎓 Graduating in Information Systems at UESB. 
+## - 📚 I'm currently learning *web* development.
+## - 🎯 I'm currently interested in *software* testing and quality assurance (QA).
+## - 😄 Pronoun: Ela.
+## - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lara-f%C3%A1bian-a-0046ba197/).
 
 
 
