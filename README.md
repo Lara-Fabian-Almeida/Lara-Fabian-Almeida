@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Lara Fábian.
+# Hello! 👋 My name is Lara Fábian.
 
 ## About me
 - 👩‍🎓 Graduating in Information Systems at UESB. 
