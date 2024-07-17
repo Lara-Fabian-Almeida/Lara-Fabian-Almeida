@@ -1,7 +1,7 @@
 # Olá! 👋 Me chamo Lara Fábian.
 
 ## Sobre mim
-- 👩‍🎓 Graduanda em Sistemas de Informação pela UESB. 
+- 👩‍🎓 Graduada em Sistemas de Informação pela UESB. 
 - 📚 Estou aprendendo desenvolvimento *web*.
 - 🎯 Atualmente, possuo interesse na área de testes de *software* e garantia de qualidade (QA).
 - 📫 Como chegar até a mim: [LinkedIn](https://www.linkedin.com/in/lara-f%C3%A1bian-a-0046ba197/) | [G-mail](mailto:larafabian061@gmail.com).
